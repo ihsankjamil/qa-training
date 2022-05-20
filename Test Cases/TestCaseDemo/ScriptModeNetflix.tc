@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test case login quora</description>
+   <name>ScriptModeNetflix</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5fdff191-7625-4c49-bffe-4a4afd02cb8e</testCaseGuid>
+</TestCaseEntity>

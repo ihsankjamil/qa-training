@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_My List_account-dropdown-button</name>
+   <tag></tag>
+   <elementGuidId>acab7994-7773-481b-bf7c-494e59d14ec1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='appMountPoint']/div/div/div/div/div/div/div/div/div[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.account-dropdown-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fcdccd23-871f-434d-92c5-248f74a50a17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>account-dropdown-button</value>
+      <webElementGuid>8a30e43a-b418-4d82-8a46-62d686a7ba7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;appMountPoint&quot;)/div[@class=&quot;netflix-sans-font-loaded&quot;]/div[1]/div[1]/div[@class=&quot;bd dark-background&quot;]/div[@class=&quot;pinning-header&quot;]/div[@class=&quot;pinning-header-container&quot;]/div[@class=&quot;main-header has-billboard menu-navigation&quot;]/div[@class=&quot;secondary-navigation&quot;]/div[@class=&quot;nav-element&quot;]/div[@class=&quot;account-menu-item&quot;]/div[@class=&quot;account-dropdown-button&quot;]</value>
+      <webElementGuid>f6eb7d44-27a8-46b6-92c2-505fc9af455b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='appMountPoint']/div/div/div/div/div/div/div/div/div[3]/div/div</value>
+      <webElementGuid>bd469894-998b-4cce-a104-9a17e50c06a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My List'])[1]/following::div[7]</value>
+      <webElementGuid>dae18cde-9b93-4ca3-b65d-537b3e47cc3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New &amp; Popular'])[1]/following::div[7]</value>
+      <webElementGuid>230a9011-7375-45be-b68b-81effeaa9d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Netflix Home'])[1]/preceding::div[1]</value>
+      <webElementGuid>c956849d-f85a-4b6f-bc19-4f0fa336e234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Episodes Coming Tuesday'])[1]/preceding::div[7]</value>
+      <webElementGuid>ccde2aab-193d-4edc-b82f-98531ca1b47c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div</value>
+      <webElementGuid>e1eaa2cc-cae4-4698-86d9-f49d933c5a4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

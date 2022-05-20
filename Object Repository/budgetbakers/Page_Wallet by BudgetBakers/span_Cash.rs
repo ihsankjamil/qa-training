@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cash</name>
+   <tag></tag>
+   <elementGuidId>d7adae79-3db6-4238-8f4f-aa0b00f7c288</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>29b085fc-c9b6-48cb-99cd-4f2a73bf38fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cash</value>
+      <webElementGuid>25eec52a-c4a1-4810-9547-d02b07b159b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_33T1-ZBLz7FQrNT-ZCfKte&quot;]/div[@class=&quot;_3noH-aE5rdGfZ-vqSixWLS&quot;]/div[@class=&quot;_2E58FjznkYlMP1cpNKlUED _3e1S_3g-0AtePVJ7oCh8ij&quot;]/div[@class=&quot;xTMeZRKJxaaaTUhSQKQDa&quot;]/div[@class=&quot;k2vmEz7csspnAhlV0W6zr&quot;]/div[@class=&quot;_3bbZ7IpYacnaJJps3LOXGo&quot;]/div[1]/div[@class=&quot;EOwMBGsNsuh3xX1zPt7pB&quot;]/div[@class=&quot;_3UlH-xKQJweod8d_ZaUvH9&quot;]/span[1]/span[1]</value>
+      <webElementGuid>75aa7df1-aba6-4b44-b133-9502823a28c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div/span/span</value>
+      <webElementGuid>d1d2a3c4-d9cd-4534-8bb5-85aca84f8be1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log out'])[1]/following::span[3]</value>
+      <webElementGuid>b24c18ce-0c94-49aa-82a2-ae8978d36805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::span[3]</value>
+      <webElementGuid>5b42fe02-b154-4b91-b0af-98e5e96dcc79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cash']/parent::*</value>
+      <webElementGuid>5b29ea2a-62ad-4ef7-84ae-50446016f020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>64dd33ee-a5b7-4765-830d-8db26148b5e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cash' or . = 'Cash')]</value>
+      <webElementGuid>03a711df-ca28-42c6-a3ed-ddb6682c899b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

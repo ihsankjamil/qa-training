@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Database Test Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>cd83936b-2fe1-4bf2-a222-617b495c42f2</testSuiteGuid>
+   <testCaseLink>
+      <guid>9796f43a-49f3-4233-8148-60e62ce2be59</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestDataDriven/LoginCuraDatabase</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fed0f3de-a95b-4e21-9bfc-0e71aea49920</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Database Test Data Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>fed0f3de-a95b-4e21-9bfc-0e71aea49920</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>086be5c6-1d8a-4b1d-a084-6ca51aca153a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fed0f3de-a95b-4e21-9bfc-0e71aea49920</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>1bda22f6-d802-4a0a-80c4-a03c60e11419</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>09f4261d-6431-427a-808e-8aa29b175157</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestDataDriven/Appointment1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4cd3b1bf-aaf7-47ea-b08f-2a2b287c9fce</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Database Test Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>4cd3b1bf-aaf7-47ea-b08f-2a2b287c9fce</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>facility</value>
+         <variableId>4bd2b2fe-55ee-4608-b9b2-3309ac0acf87</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4cd3b1bf-aaf7-47ea-b08f-2a2b287c9fce</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>is_apply</value>
+         <variableId>178d8033-d285-4c24-8c15-009ff1cc6048</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4cd3b1bf-aaf7-47ea-b08f-2a2b287c9fce</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>healthcare_program</value>
+         <variableId>234e7853-29f4-40b3-9da5-ec9718f8d853</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4cd3b1bf-aaf7-47ea-b08f-2a2b287c9fce</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>visit_date</value>
+         <variableId>0f24d3c1-8c35-4b02-9572-f49ee94c6de4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4cd3b1bf-aaf7-47ea-b08f-2a2b287c9fce</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>comment</value>
+         <variableId>84109225-e1a8-446b-9814-2fe455c3f219</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

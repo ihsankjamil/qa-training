@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case manual git hub login</description>
+   <name>ManualGitHubLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e21123d3-426a-4692-8384-29d275dd4438</testCaseGuid>
+</TestCaseEntity>

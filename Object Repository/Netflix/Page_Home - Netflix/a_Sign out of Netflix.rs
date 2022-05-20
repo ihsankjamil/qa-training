@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign out of Netflix</name>
+   <tag></tag>
+   <elementGuidId>e42d32f4-72f6-4502-ba35-c37609253b77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='appMountPoint']/div/div/div/div/div/div/div/div/div[3]/div/div[2]/div/ul[4]/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1c096788-f27a-4442-8e35-c1aa3cf1a9b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-menu-link </value>
+      <webElementGuid>7d292a83-a885-411c-a5ba-acfdfde71caf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/SignOut?lnkctr=mL</value>
+      <webElementGuid>c4e3652e-ec06-4aa2-9e94-a96b407c6f20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign out of Netflix</value>
+      <webElementGuid>e1a0f941-dd3c-4fcd-a203-8e3caff99d99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;appMountPoint&quot;)/div[@class=&quot;netflix-sans-font-loaded&quot;]/div[1]/div[1]/div[@class=&quot;bd dark-background&quot;]/div[@class=&quot;pinning-header&quot;]/div[@class=&quot;pinning-header-container&quot;]/div[@class=&quot;main-header has-billboard menu-navigation&quot;]/div[@class=&quot;secondary-navigation&quot;]/div[@class=&quot;nav-element&quot;]/div[@class=&quot;active account-menu-item&quot;]/div[@class=&quot;account-drop-down sub-menu theme-lakira&quot;]/div[@class=&quot;ptrack-content&quot;]/ul[@class=&quot;account-links sub-menu-list sign-out-links&quot;]/li[@class=&quot;sub-menu-item&quot;]/a[@class=&quot;sub-menu-link&quot;]</value>
+      <webElementGuid>e2e374d9-9447-4ad8-91e9-cf88ab91549a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='appMountPoint']/div/div/div/div/div/div/div/div/div[3]/div/div[2]/div/ul[4]/li/a</value>
+      <webElementGuid>271b91fb-c405-4430-a6a6-56568f344670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sign out of Netflix')]</value>
+      <webElementGuid>fd3130c3-f32f-45dc-9d23-bb942ef0aec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help Center'])[1]/following::a[1]</value>
+      <webElementGuid>82118464-3a1e-4a96-a67d-25a27480ad3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/following::a[2]</value>
+      <webElementGuid>a5d90edc-5442-4dbc-a939-765f4d268fcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Netflix Home'])[1]/preceding::a[1]</value>
+      <webElementGuid>ffcfceb9-9cd6-4d85-af7d-08c68121d822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Episodes Coming Tuesday'])[1]/preceding::a[1]</value>
+      <webElementGuid>1e46435c-68b6-4afd-9f71-06c8eb6f87e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign out of Netflix']/parent::*</value>
+      <webElementGuid>b24ee3ea-e385-4805-89b9-fe69bb0bcf38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/SignOut?lnkctr=mL')]</value>
+      <webElementGuid>3eeaa230-70a4-46ac-9b35-95524001fe34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[4]/li/a</value>
+      <webElementGuid>07f81223-8c74-4bc8-b9cf-ef2f4bf6401f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/SignOut?lnkctr=mL' and (text() = 'Sign out of Netflix' or . = 'Sign out of Netflix')]</value>
+      <webElementGuid>9ba1e451-330e-4195-980c-7b4b00382fb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Medium</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95ad2dc9-7f03-4191-a552-1b2bc677fa1b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c1ac8a90-cfab-4a1b-9618-8e8623a191b0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1ac8a90-cfab-4a1b-9618-8e8623a191b0</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

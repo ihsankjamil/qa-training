@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Bukalapak</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66b81651-6aac-497e-b508-83a3de4ad315</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5946ab0-b8ed-4b0b-b27f-3d85744fa367</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4edb3658-c365-4590-9404-eb08ae3ec8c5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'bukalapak.com\r\n'</defaultValue>
+      <description></description>
+      <id>a5946ab0-b8ed-4b0b-b27f-3d85744fa367</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4edb3658-c365-4590-9404-eb08ae3ec8c5</id>
+      <masked>false</masked>
+      <name>no_handphone</name>
+   </variable>
+</TestCaseEntity>

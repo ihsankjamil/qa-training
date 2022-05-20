@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manual record appointment</description>
+   <name>ManualModeAppointmentLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a65e7c1f-6754-459e-8d0e-c361580a02c8</testCaseGuid>
+</TestCaseEntity>

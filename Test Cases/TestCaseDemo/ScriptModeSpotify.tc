@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test case login spotify</description>
+   <name>ScriptModeSpotify</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3222bbb-44c8-46b2-a0d3-f63d16416a07</testCaseGuid>
+</TestCaseEntity>

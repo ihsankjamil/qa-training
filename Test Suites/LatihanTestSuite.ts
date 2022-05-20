@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>LatihanTestSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>ee692c9e-57df-4429-9c73-960f63f2342b</testSuiteGuid>
+   <testCaseLink>
+      <guid>a6bb57b4-aabb-4f73-bc4d-e689f40b430c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LatihanDataDriven/tokopedia</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>23ad6639-1cde-4bc6-b545-d2f27a3f92f4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Tokopedia</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>23ad6639-1cde-4bc6-b545-d2f27a3f92f4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>no_telp</value>
+         <variableId>4bc77556-a6b1-4c0b-8ceb-b2a99532e50a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>23ad6639-1cde-4bc6-b545-d2f27a3f92f4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>verifikasi</value>
+         <variableId>4ee25a16-0384-4bcf-a221-65bfd5b2d1cb</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

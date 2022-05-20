@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test case login medium</description>
+   <name>ScriptModeInstagram</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c7e3030-a32e-48cf-8d84-c9940fb1c0b7</testCaseGuid>
+</TestCaseEntity>
